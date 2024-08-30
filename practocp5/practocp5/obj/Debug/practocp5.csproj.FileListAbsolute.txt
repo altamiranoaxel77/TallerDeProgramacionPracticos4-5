@@ -1,0 +1,10 @@
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\bin\Debug\practocp5.exe.config
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\bin\Debug\practocp5.exe
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\bin\Debug\practocp5.pdb
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.csproj.AssemblyReference.cache
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.Form1.resources
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.Properties.Resources.resources
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.csproj.GenerateResource.cache
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.csproj.CoreCompileInputs.cache
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.exe
+C:\Users\Axel Altamirano\source\repos\practocp5\practocp5\obj\Debug\practocp5.pdb
